@@ -18,12 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -34,8 +30,7 @@
               "RelativeToolTip": "Prueba_API-ArmandoJosueMeza\\Controllers\\EmployeesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T22:34:41.694Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T22:34:41.694Z"
             },
             {
               "$type": "Document",
@@ -45,10 +40,14 @@
               "RelativeDocumentMoniker": "Prueba_API-ArmandoJosueMeza\\Program.cs",
               "ToolTip": "C:\\Users\\Josue\\Desktop\\prueba_api\\Prueba_API-ArmandoJosueMeza\\Prueba_API-ArmandoJosueMeza\\Program.cs",
               "RelativeToolTip": "Prueba_API-ArmandoJosueMeza\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswB4AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-18T22:16:15.827Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
